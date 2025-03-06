@@ -3,7 +3,7 @@
 #include <iomanip>
 #include <algorithm>
 #include <vector>
-
+// Выполнил студент Гилязов Тимур, группа 5130203/40002
 using namespace std;
 
 const double PI = acos(-1);
